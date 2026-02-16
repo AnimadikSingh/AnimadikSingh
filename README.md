@@ -12,6 +12,11 @@ Crafting immersive digital experiences. Full Stack Developer & Competitive Progr
 ![](https://nirzak-streak-stats.vercel.app/?user=AnimadikSingh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnimadikSingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🐍 Contribution Snake Game
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnimadikSingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
