@@ -44,7 +44,7 @@ AI-powered educational assistant trained to replicate instructor-specific teachi
 
 **Tech Stack:** React • Tailwind CSS • AI APIs • Vercel
 
-🔗 Repository: Add Link Here
+🔗 Repository: [Add Link Here](https://github.com/AnimadikSingh/SikshaAi)
 
 ---
 
@@ -54,7 +54,6 @@ Intelligent report analysis platform featuring report comparison, automated aler
 
 **Tech Stack:** React • Firebase • JavaScript
 
-🔗 Repository: Add Link Here
 
 ---
 
@@ -70,7 +69,7 @@ Topic-wise DSA solutions in Java with optimized approaches and clean code.
 - Graphs
 - Dynamic Programming
 
-🔗 Repository: Add Link Here
+🔗 Repository: SOON
 
 ---
 
@@ -105,7 +104,7 @@ Topic-wise DSA solutions in Java with optimized approaches and clean code.
 # 📈 Coding Profiles
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma" />
+<img src="https://leetcard.jacoblin.cool/Animadik?theme=dark&font=Karma" />
 </p>
 
 ---
