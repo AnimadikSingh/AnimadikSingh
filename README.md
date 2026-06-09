@@ -44,7 +44,7 @@ AI-powered educational assistant trained to replicate instructor-specific teachi
 
 **Tech Stack:** React • Tailwind CSS • AI APIs • Vercel
 
-🔗 Repository: [Add Link Here](https://github.com/AnimadikSingh/SikshaAi)
+🔗 Repository: [SikshaAi](https://github.com/AnimadikSingh/SikshaAi)
 
 ---
 
