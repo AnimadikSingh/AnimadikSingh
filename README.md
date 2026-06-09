@@ -6,6 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Competitive+Programmer;AI+Enthusiast;Java+Developer;Building+SikshaAI;Learning+MERN+Stack" />
 
+<p align="center">
+  <a href="https://animadikportfoilio.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=AnimadikSingh&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
